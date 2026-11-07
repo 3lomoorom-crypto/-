@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindGuard</string>
+    <string name="nav_map">แผนที่</string>
+    <string name="nav_devices">อุปกรณ์</string>
+    <string name="nav_bell">ส่งเสียง</string>
+    <string name="nav_lock">ล็อคระยะไกล</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "FindGuard",
+  "description": "แอปพลิเคชันป้องกันการสูญหาย เชื่อมต่ออุปกรณ์ด้วย QR Code ดูแผนที่ตำแหน่ง ส่งเสียงกระดิ่ง และระบบล็อคเครื่องระยะไกล",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
